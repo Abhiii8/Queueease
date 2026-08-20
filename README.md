@@ -1,6 +1,28 @@
-# Queueease
+<div align="center">
 
-Queueease is a modern, comprehensive Queue Management System built with Flutter. It streamlines the queueing experience for both businesses and customers, providing live tracking, QR code check-ins, and robust analytics.
+# 📊 Queueease
+
+**A comprehensive Queue Management System built with Flutter**
+
+[![GitHub stars](https://img.shields.io/github/stars/Abhiii8/Queueease?style=for-the-badge&color=ffd700)](https://github.com/Abhiii8/Queueease/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Abhiii8/Queueease?style=for-the-badge&color=blue)](https://github.com/Abhiii8/Queueease/network)
+[![GitHub issues](https://img.shields.io/github/issues/Abhiii8/Queueease?style=for-the-badge&color=red)](https://github.com/Abhiii8/Queueease/issues)
+[![License](https://img.shields.io/github/license/Abhiii8/Queueease?style=for-the-badge)](https://github.com/Abhiii8/Queueease/blob/main/LICENSE)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiii8&repo=Queueease&theme=radical" alt="Queueease Repo Card" />
+</div>
+
+<br/>
+
+Queueease streamlines the queueing experience for both businesses and customers, providing live tracking, QR code check-ins, and robust analytics in one modern, elegant platform.
+
+---
 
 ## ✨ Features
 
@@ -12,10 +34,12 @@ Queueease is a modern, comprehensive Queue Management System built with Flutter.
 - **Audio Notifications:** Alerts for queue updates and counter calls (`audioplayers`).
 - **State Management & Routing:** Built with robust architecture using Riverpod (`flutter_riverpod`) for state management and GoRouter (`go_router`) for navigation.
 
-## 📱 Screenshots
+## 📈 Project Statistics
 
-*(Add screenshots of your application here)*
-<!-- Example: <img src="assets/screenshots/home.png" width="200" /> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhiii8&repo=Queueease&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiii8&layout=compact&theme=radical&repo=Queueease" alt="Top Languages" />
+</div>
 
 ## 🚀 Getting Started
 
